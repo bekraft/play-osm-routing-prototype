@@ -1,0 +1,26 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+#header {
+	width: calc(100% - 20px);
+	height: 30px;
+	padding: 10px;
+}
+
+.header-item {
+	float: left;
+	margin-right: 20px;
+}
+
+form {
+	margin: 0;
+	padding: 0;
+}
+
+#map {
+	width: 100%;
+	height: calc(100% - 50px);
+}
